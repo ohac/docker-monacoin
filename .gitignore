@@ -1,0 +1,4 @@
+bin/mona*
+bin/*_monacoin
+dot.monacoin/
+monacoin/
